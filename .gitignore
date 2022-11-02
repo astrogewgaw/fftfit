@@ -8,7 +8,7 @@ __pycache__
 .mypy_cache
 .pytest_cache
 .ipynb_checkpoints
-src/priwo/_version.py
+src/fftfit/_version.py
 
 *.o
 *.so
